@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidArchDemo</string>
+    <string name="test_button_title">Test</string>
+</resources>
